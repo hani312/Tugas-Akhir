@@ -4,7 +4,7 @@
 Berikut ini adalah list hasil tugas Saya:
 
 1. File Tugas EMT
-[File Tugas EMT]
+[File Tugas EMT](https://github.com/hani312/Tugas-Akhir/blob/2026229f9606d9e8a527000a9d7bba0c5cc170f5/Tugas%20Akhir.en)
 2. File Tugas EMT format LaTeX
 [File Tugas EMT format LaTeX]
 
