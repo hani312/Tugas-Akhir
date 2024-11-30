@@ -1,6 +1,7 @@
 # Tugas-Akhir
 #Hanifah Khairun Nisa_23030630088_Matematika E
-📚 Berikut adalah ringkasan hasil tugas Saya:
+
+Berikut ini adalah list hasil tugas Saya:
 
 1. File Tugas EMT
 [File Tugas EMT](https://github.com/aliciasalsabilla1705/Alicia_23030630073_Matematika-E/blob/05fae6e602ca4aadae793503d911cc5f6ba65539/23030630073%20Alicia%20Salsabilla%20emt%201-6.en)
